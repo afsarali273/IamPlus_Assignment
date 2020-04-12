@@ -3,7 +3,7 @@
 **How to Run**
 
 ```cmd
-1. git clone "https://github.com/afsarali273/iamplusAssignment.git"
+1. git clone "https://github.com/afsarali273/IamPlus_Assignment.git"
 
 2. cd /path/to/project/iamplus_Assignment
 
@@ -52,6 +52,6 @@ Feature: Popular Movies Validation
 
 ```
 **Test Results**
-![Test Results]()
+![Test Results](https://github.com/afsarali273/IamPlus_Assignment/blob/master/iamplus-assignment.png)
 
 
